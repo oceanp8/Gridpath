@@ -1,6 +1,3 @@
-
-import java.net.InterfaceAddress;
-
 public class GridPath 
 {
 
